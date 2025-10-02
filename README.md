@@ -101,12 +101,20 @@
 ### ⚙️ Administrative and productivity tool
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Skilled in prompt engineering to generate code, ideas, and documentation. |
 | ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | Proficient in Notion for task management, knowledge bases, and collaboration. |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Effective in Figma for collaborative interface, graphic, and web design. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Capable in Trello for organizing workflows with boards and cards. |
 | ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel | Experienced with cPanel and hPanel for CMS administration and hosting management. |
 | _Set of tools to support development, administration, documentation, and collaboration._ |
+
+---
+
+### ⚙️ Automation kit set
+| Tool      | Description                                                          |
+|-----------|----------------------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Intelligent assistant to automate workflows, generate content, and assist in development. |
+| ![](https://img.icons8.com/color/48/000000/zapier.png) Zapier  | Integration platform that connects apps and automates repetitive tasks across them. |
+| _Automation tools that empower integration, efficiency, and intelligent workflows._ |
 
 ---
 
