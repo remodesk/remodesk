@@ -51,18 +51,6 @@
 
 ---
 
-### ⚙️ Backend environment development tools and modern deployment
-| Tool                                                                 | Description                                        |
-|----------------------------------------------------------------------|----------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for efficient tracking and branching of code changes. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Cloud repository hosting for collaboration, pull requests, and project management. |
-| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Modern cloud platform for seamless frontend and backend deployment. |
-| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Hosting solution for static sites, serverless functions, and CI/CD workflows. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting for static websites directly from GitHub repositories. |
-| _Proficient in building, deploying, and maintaining apps, websites, APIs, and related utilities._ | 
-
----
-
 ### ⚙️ Frontend frameworks for JS + PY + PHP
 | Framework                        | Description                                            |
 |----------------------------------|--------------------------------------------------------|
@@ -74,7 +62,31 @@
 | ![](https://img.icons8.com/color/48/000000/laravel.png) Laravel | Strong grasp of Laravel for building scalable PHP applications and REST APIs. |
 | _To build new projects quickly with robust settings and modern web design practices._ |
 
+---
+
+### ⚙️ Backend frameworks for Node.js
+| Framework                        | Description                                            |
+|----------------------------------|--------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/express.png) Express.js | Minimal and flexible Node.js web framework for APIs and server-side apps. |
+| ![](https://img.icons8.com/color/48/000000/nestjs.png) NestJS      | Progressive Node.js framework built with TypeScript, ideal for scalable enterprise apps. |
+| ![](https://img.icons8.com/color/48/000000/fastify.png) Fastify    | High-performance Node.js framework focused on speed and low overhead. |
+| ![](https://img.icons8.com/color/48/000000/koa.png) Koa.js         | Lightweight and modern framework from the creators of Express, with async/await at its core. |
+| ![](https://img.icons8.com/color/48/000000/hapi.png) Hapi.js       | Rich framework for building applications and services with configuration-driven architecture. |
+| _Frameworks for Node.js that enable building REST APIs, microservices, and scalable backend systems._ |
+
 --- 
+
+### ⚙️ Backend development tools and deployment
+| Tool                                                                 | Description                                        |
+|----------------------------------------------------------------------|----------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for efficient tracking and branching of code changes. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Cloud repository hosting for collaboration, pull requests, and project management. |
+| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Modern cloud platform for seamless frontend and backend deployment. |
+| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Hosting solution for static sites, serverless functions, and CI/CD workflows. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting for static websites directly from GitHub repositories. |
+| _Proficient in building, deploying, and maintaining apps, websites, APIs, and related utilities._ | 
+
+---
 
 ### ⚙️ CSS based frameworks
 | CSS framework                       | Description                                            |
